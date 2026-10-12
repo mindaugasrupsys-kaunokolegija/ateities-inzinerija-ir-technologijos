@@ -1,0 +1,9 @@
+{
+  "customTemplates": [
+    {
+      "name": "forum-demo",
+      "title": "Forum Demo",
+      "postTypes": ["page"]
+    }
+  ]
+}
